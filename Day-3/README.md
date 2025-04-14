@@ -1,6 +1,6 @@
 # DevOps-Terraform Repository Link 
 
-<pre><code>https://github.com/prathikshhaa/DevOps-Terraform.git</code></pre>
+<pre><code>https://github.com/ashith-h-gowda/DevOps-Terraform.git</code></pre>
 
 # 🌍 Day 3 – Terraform Learning Summary
 
